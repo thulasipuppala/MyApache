@@ -1,0 +1,4 @@
+---
+# vars file for myApache
+apache_pack_deb: apache2
+package_name: httpd
